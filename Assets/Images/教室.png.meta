@@ -5,12 +5,6 @@ TextureImporter:
   - first:
       213: -3264615631058768854
     second: "\u6559\u5BA4_0"
-  - first:
-      213: -3350669637973761086
-    second: "\u6559\u5BA4_1"
-  - first:
-      213: -6218475048118382500
-    second: "\u6559\u5BA4_2"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -119,6 +113,28 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: "\u6559\u5BA4_6"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3d3dd3cc3a8442b3f6d553e2917a0
+      internalID: -1576649625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: "\u6559\u5BA4_2"
       rect:
         serializedVersion: 2
@@ -134,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82b0ad712248bf641a72d71cabf03df7
-      internalID: -910301283
+      spriteID: 023a82e3101dbc241a572909acda0a3c
+      internalID: 775701180
       vertices: []
       indices: 
       edges: []
@@ -156,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33e6da4a933aeee4abea3d7148e6e8e3
-      internalID: -1603255688
+      spriteID: 9d304db652b95ed4d9cdfe96c35f9e54
+      internalID: -938249920
       vertices: []
       indices: 
       edges: []
@@ -178,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30809fd71dfb17a42801aa2c75657cc6
-      internalID: -2104144101
+      spriteID: b713069f9dae5dd4d96c58c12a4c4240
+      internalID: 1413874407
       vertices: []
       indices: 
       edges: []
@@ -200,17 +216,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15a3230b04217c14aaaf2a3b12d13aae
-      internalID: -1619954858
+      spriteID: f6804d766e912f04ca6638ec099632dd
+      internalID: -68080999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u6559\u5BA4_6"
+      name: "\u6559\u5BA4_7"
       rect:
         serializedVersion: 2
-        x: 160
+        x: 192
         y: 224
         width: 32
         height: 32
@@ -222,8 +238,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 882d4885dcb69da4e9805a1b5b99a3f3
-      internalID: 1430789830
+      spriteID: a547479fbf194f24598ae5c7d55a43a0
+      internalID: 1721673245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u6559\u5BA4_8"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25cae393cff18f4eaef86e1ffee5531
+      internalID: 1497275465
       vertices: []
       indices: 
       edges: []
@@ -232,7 +270,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 1e406d8a3ca881144ac0d426fed0aa91
+    spriteID: 37026939630d5684f97578f7db18b9d0
     internalID: 0
     vertices: []
     indices: 
@@ -242,13 +280,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\u6559\u5BA4_0": -1722625099
-      "\u6559\u5BA4_1": 131481147
-      "\u6559\u5BA4_2": -910301283
-      "\u6559\u5BA4_3": -1603255688
-      "\u6559\u5BA4_4": -2104144101
-      "\u6559\u5BA4_5": -1619954858
-      "\u6559\u5BA4_6": 1430789830
+      "\u6559\u5BA4_0": -3264615631058768854
+      "\u6559\u5BA4_1": 1279573580
+      "\u6559\u5BA4_2": 775701180
+      "\u6559\u5BA4_3": -938249920
+      "\u6559\u5BA4_4": 1413874407
+      "\u6559\u5BA4_5": -68080999
+      "\u6559\u5BA4_6": -1576649625
+      "\u6559\u5BA4_7": 1721673245
+      "\u6559\u5BA4_8": 1497275465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
